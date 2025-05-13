@@ -4,9 +4,11 @@
             <tr>
                 <th>No</th>
                 <th>Nama Tamu</th>
-                <th>Email</th>
-                <th>No. Telepon</th>
-                <th>Jumlah Booking</th>
+                <th>Kamar</th>
+                <th>Ngl Transaksi</th>
+                <th>Metode Pembayaran</th>
+                <th>Total</th>
+                <th>Status</th>
                 <th>Aksi</th>
             </tr>
         </thead>
